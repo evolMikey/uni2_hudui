@@ -1,0 +1,37 @@
+﻿<?xml version=”1.0″ encoding=”UTF-8″ standalone=”yes”?>
+
+<page number = “1”>
+<dateOfSave>201711300042</dateOfSave>
+<saveName>testSave0</saveName>
+<charName>Sir Servilius</charName>
+<charLocation>Giant's Forest</charLocation>
+<charLevel>12</charLevel>
+<saveLocation>C:\Users\S6105173\Documents\hudUI_savelocation\test0</saveLocation>
+</page>
+
+<page number = “1”>
+<dateOfSave>201711300043</dateOfSave>
+<saveName>testSave1</saveName>
+<charName>Sir Robert</charName>
+<charLocation>Salisbury</charLocation>
+<charLevel>52</charLevel>
+<saveLocation>C:\Users\S6105173\Documents\hudUI_savelocation\test1</saveLocation>
+</page>
+
+<page number = “2”>
+<dateOfSave>201711300044</dateOfSave>
+<saveName>testSave2</saveName>
+<charName>Sir Alexis</charName>
+<charLocation>Underground</charLocation>
+<charLevel>1</charLevel>
+<saveLocation>C:\Users\S6105173\Documents\hudUI_savelocation\test2</saveLocation>
+</page>
+
+<page number = “3”>
+<dateOfSave>201711300045</dateOfSave>
+<saveName>testSave3</saveName>
+<charName>Sir Emeric</charName>
+<charLocation>TutorialDungeon</charLocation>
+<charLevel>1</charLevel>
+<saveLocation>C:\Users\S6105173\Documents\hudUI_savelocation\test3</saveLocation>
+</page>

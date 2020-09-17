@@ -1,0 +1,14 @@
+defaultSave is a prefab that acts as a default layout for save data in the game menu.
+
+Saves in most games are loaded in a certain order, usually by the data when the file was created/modified. My version copies this method when creating new files, and will order them as such. Most recent saves appear at top, least recent appears at bottom. Creation date doesn't affect this as overwriting will rename the file.
+
+Top file appears at coords:
+8 left,
+16 right,
+-72 pos Y,
+128 pos X,
+
+Every new file keeps the left, right and pos X data.
+pos Y = -72 -(136*x) where x is ID order (0 is top of list).
+
+Save name: 20 character width before cutoff
